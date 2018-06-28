@@ -3,7 +3,7 @@
 **Welcome to the quarterly Frontend Learning Stream.**
 The purpose of the Frontend Learning stream is to build a comprehensive understanding and discusses the practice of front-end engineering, various frameworks, best practices, tooling and its applications across the Lloyds-Sapient network. 
 
-Obesity has become an epidemic acorss the worls and same applies to web applications and web sites. An overweight web application/ site is directly linked to user drop outs, bad user experience and end up with poor sales conversions leading it to a disaster.
+Obesity has become an epidemic across the world and same applies to web applications and web sites. An overweight web application/ site is directly linked to user drop outs, bad user experience and end up with poor sales conversions leading it to a disaster.
 
 *Good news is that you can lose weight in the browsers. "Lose weight now, ask me how!"*
 
